@@ -1,0 +1,10 @@
+﻿  benchmark.cpp
+d:\temp\pl25a1_libusb_sdk\source\libusb.h(738): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  d:\temp\pl25a1_libusb_sdk\source\libusb.h(738): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+d:\temp\pl25a1_libusb_sdk\source\libusb.h(769): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  d:\temp\pl25a1_libusb_sdk\source\libusb.h(769): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+d:\temp\pl25a1_libusb_sdk\source\libusb.h(1265): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  d:\temp\pl25a1_libusb_sdk\source\libusb.h(1265): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  benchmark.vcxproj -> D:\Temp\PL25A1_Libusb_SDK\MSVC\Debug\benchmark.exe
+  benchmark.vcxproj -> D:\Temp\PL25A1_Libusb_SDK\MSVC\Debug\benchmark.pdb (Full PDB)
