@@ -1,9 +1,0 @@
-﻿  listdev.cpp
-C:\Users\vcc\Dropbox\Prolific\Code\PL25A1\PL25A1_SDK_New\Libusb\libusb\libusb.h(738): warning C4200: nonstandard extension used: zero-sized array in struct/union
-  C:\Users\vcc\Dropbox\Prolific\Code\PL25A1\PL25A1_SDK_New\Libusb\libusb\libusb.h(738): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
-C:\Users\vcc\Dropbox\Prolific\Code\PL25A1\PL25A1_SDK_New\Libusb\libusb\libusb.h(769): warning C4200: nonstandard extension used: zero-sized array in struct/union
-  C:\Users\vcc\Dropbox\Prolific\Code\PL25A1\PL25A1_SDK_New\Libusb\libusb\libusb.h(769): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
-C:\Users\vcc\Dropbox\Prolific\Code\PL25A1\PL25A1_SDK_New\Libusb\libusb\libusb.h(1265): warning C4200: nonstandard extension used: zero-sized array in struct/union
-  C:\Users\vcc\Dropbox\Prolific\Code\PL25A1\PL25A1_SDK_New\Libusb\libusb\libusb.h(1265): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
-  MSVC.vcxproj -> c:\Users\vcc\Dropbox\Prolific\Code\PL25A1\PL25A1_SDK_New\MSVC\Debug\listdev.exe
-  MSVC.vcxproj -> c:\Users\vcc\Dropbox\Prolific\Code\PL25A1\PL25A1_SDK_New\MSVC\Debug\listdev.pdb (Full PDB)
